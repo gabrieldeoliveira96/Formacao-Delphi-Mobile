@@ -1,0 +1,12 @@
+26/07/2022 21:10:31 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:10:32 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:10:36 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:10:38 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:10:54 - Enviando email = gabriel.o.s@hotmail.com Assunto = Baixe Aqui! Arquivo = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\modelos\pagamento.html
+26/07/2022 21:12:18 - Enviando email = gabriel.o.s@hotmail.com Assunto = Baixe Aqui! Arquivo = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\modelos\pagamento.html
+26/07/2022 21:17:28 - Enviando email = gabriel.o.s@hotmail.com Assunto = Baixe Aqui! Arquivo = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\modelos\pagamento.html
+26/07/2022 21:21:27 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:21:28 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:21:59 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:22:09 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini
+26/07/2022 21:23:11 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\email\exe\ambiente.ini

@@ -1,0 +1,29 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 342
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 128.000000000000000000
+    Position.Y = 232.000000000000000000
+    TabOrder = 0
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object GosToast_v21: TGosToast_v2
+    Duration = 3.000000000000000000
+    TypeToast = Sucess
+    CorSucess = xFF92C892
+    CorError = claRed
+    CorInfo = claAqua
+    CorWaring = claYellow
+    Mensagem = '123'
+    Left = 160
+    Top = 112
+  end
+end

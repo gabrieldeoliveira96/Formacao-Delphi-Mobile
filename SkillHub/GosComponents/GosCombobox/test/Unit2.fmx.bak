@@ -1,0 +1,174 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 600
+  ClientWidth = 1118
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Fill.Color = x32E99F25
+    Position.X = 352.000000000000000000
+    Position.Y = 276.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 149.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object Rectangle2: TRectangle
+      Fill.Color = x96E99F25
+      Locked = True
+      HitTest = False
+      Position.Y = 1.000000000000000000
+      Size.Width = 201.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Label1: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 4
+      OnMouseEnter = LabelEnter
+    end
+    object Label2: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 68.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 3
+      OnMouseEnter = LabelEnter
+    end
+    object Label3: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 51.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 2
+      OnMouseEnter = LabelEnter
+    end
+    object Label4: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 34.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 1
+      OnMouseEnter = LabelEnter
+    end
+    object Label5: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 17.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 0
+      OnMouseEnter = LabelEnter
+    end
+  end
+  object ComboBox1: TComboBox
+    Position.X = 680.000000000000000000
+    Position.Y = 168.000000000000000000
+    Size.Width = 289.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object ListBoxItem1: TListBoxItem
+      TabOrder = 0
+      Text = 'ListBoxItem1'
+    end
+    object ListBoxItem2: TListBoxItem
+      TabOrder = 1
+      Text = 'ListBoxItem2'
+    end
+    object ListBoxItem3: TListBoxItem
+      TabOrder = 2
+      Text = 'ListBoxItem3'
+    end
+  end
+  object Rectangle3: TRectangle
+    Position.X = 352.000000000000000000
+    Position.Y = 247.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    OnClick = Rectangle3Click
+    object SpeedButton1: TSpeedButton
+      Align = Right
+      HitTest = False
+      Locked = True
+      Position.X = 181.000000000000000000
+      Size.Width = 20.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'dropdowneditbutton'
+      Text = 'SpeedButton1'
+    end
+    object Label6: TLabel
+      Align = Client
+      Locked = True
+      Margins.Left = 8.000000000000000000
+      Size.Width = 173.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label6'
+      TabOrder = 0
+    end
+  end
+  object Button1: TButton
+    Position.X = 912.000000000000000000
+    Position.Y = 322.000000000000000000
+    TabOrder = 3
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object Button2: TButton
+    Position.X = 640.000000000000000000
+    Position.Y = 442.000000000000000000
+    TabOrder = 2
+    Text = 'Button1'
+    OnClick = Button2Click
+  end
+  object GosCombobox1: TGosCombobox
+    Position.X = 592.000000000000000000
+    Position.Y = 271.000000000000000000
+    Size.Width = 193.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    CorLista = claNull
+    CorSelecionado = claNull
+    ItemTextSettings.FontColor = claRed
+  end
+end

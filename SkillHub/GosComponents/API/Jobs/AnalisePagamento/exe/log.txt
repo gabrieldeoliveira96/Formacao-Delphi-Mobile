@@ -1,0 +1,259 @@
+02/06/2022 09:03:28 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:03:30 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:06:11 - Alteração de status registrado, id = 8 id_usuario = 1 status antigo =  novo status = Aguardando pagamento
+02/06/2022 09:10:38 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:10:40 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:28:14 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:28:21 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:28:40 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:28:43 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:29:04 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:29:07 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:29:43 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:29:46 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:30:45 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:32:03 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:32:04 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:32:04 - ambiente = sandbox
+02/06/2022 09:32:04 - email = contato.lovesofa@gmail.com
+02/06/2022 09:32:04 - token = 2768740365B14297B6AECC3EEC9ED409
+02/06/2022 09:32:04 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:42:30 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:43:03 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+02/06/2022 09:43:10 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+03/06/2022 11:12:41 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:12:43 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+03/06/2022 11:12:43 - ambiente = sandbox
+03/06/2022 11:12:43 - email = contato.lovesofa@gmail.com
+03/06/2022 11:12:43 - token = 2768740365B14297B6AECC3EEC9ED409
+03/06/2022 11:12:43 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:12:44 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:18:18 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:18:20 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+03/06/2022 11:18:20 - ambiente = sandbox
+03/06/2022 11:18:20 - email = contato.lovesofa@gmail.com
+03/06/2022 11:18:20 - token = 2768740365B14297B6AECC3EEC9ED409
+03/06/2022 11:18:20 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:18:21 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:21:57 - Alteração de status registrado, id = 10 id_usuario = 1 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+03/06/2022 11:21:57 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+03/06/2022 11:30:50 - Alteração de status registrado, id = 11 id_usuario = 21 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+03/06/2022 11:30:50 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 20:48:43 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 20:48:44 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+19/07/2022 20:48:44 - ambiente = sandbox
+19/07/2022 20:48:44 - email = contato.lovesofa@gmail.com
+19/07/2022 20:48:44 - token = 2768740365B14297B6AECC3EEC9ED409
+19/07/2022 20:48:44 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 20:48:45 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 21:57:47 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 21:57:48 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+19/07/2022 21:57:48 - ambiente = sandbox
+19/07/2022 21:57:48 - email = contato.lovesofa@gmail.com
+19/07/2022 21:57:48 - token = 2768740365B14297B6AECC3EEC9ED409
+19/07/2022 21:57:48 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 21:57:49 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:15:18 - Alteração de status registrado, id = 13 id_usuario = 24 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+19/07/2022 22:15:19 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:22:35 - Alteração de status registrado, id = 14 id_usuario = 24 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+19/07/2022 22:22:35 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:25:24 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:25:25 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+19/07/2022 22:25:25 - ambiente = sandbox
+19/07/2022 22:25:25 - email = contato.lovesofa@gmail.com
+19/07/2022 22:25:25 - token = 2768740365B14297B6AECC3EEC9ED409
+19/07/2022 22:25:25 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:25:26 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+19/07/2022 22:35:34 - Alteração de status registrado, id = 15 id_usuario = 24 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+19/07/2022 22:37:29 - Alteração de status registrado, id = 16 id_usuario = 24 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Aguardando pagamento
+21/07/2022 08:26:12 - Inválido no nível superior do documento.
+
+Line: 1
+Internal Server Error
+25/07/2022 20:18:06 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 20:18:07 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 20:18:07 - ambiente = sandbox
+25/07/2022 20:18:07 - email = contato.lovesofa@gmail.com
+25/07/2022 20:18:07 - token = 2768740365B14297B6AECC3EEC9ED409
+25/07/2022 20:18:07 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 20:18:08 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:18 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:20 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:25:20 - ambiente = producao
+25/07/2022 21:25:20 - email = contato.lovesofa@gmail.com
+25/07/2022 21:25:20 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:25:20 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:21 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:40 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:42 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:25:42 - ambiente = producao
+25/07/2022 21:25:42 - email = contato.lovesofa@gmail.com
+25/07/2022 21:25:42 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:25:51 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:25:52 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:27:29 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:27:30 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:27:30 - ambiente = producao
+25/07/2022 21:27:30 - email = contato.lovesofa@gmail.com
+25/07/2022 21:27:30 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:27:35 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:27:37 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:35:40 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:35:44 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:35:51 - ambiente = producao
+25/07/2022 21:35:52 - email = contato.lovesofa@gmail.com
+25/07/2022 21:35:52 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:35:57 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:35:59 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:38:21 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:38:23 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:38:29 - ambiente = producao
+25/07/2022 21:38:29 - email = contato.lovesofa@gmail.com
+25/07/2022 21:38:29 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:38:34 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:38:36 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:39:38 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:39:41 - ambiente = producao
+25/07/2022 21:39:41 - email = contato.lovesofa@gmail.com
+25/07/2022 21:39:41 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:39:41 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:39:44 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:39:45 - ambiente = producao
+25/07/2022 21:39:45 - email = contato.lovesofa@gmail.com
+25/07/2022 21:39:45 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:39:49 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:39:51 - ambiente = producao
+25/07/2022 21:39:51 - email = contato.lovesofa@gmail.com
+25/07/2022 21:39:51 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:39:51 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:39:52 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:49:47 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:49:47 - ambiente = producao
+25/07/2022 21:49:47 - email = contato.lovesofa@gmail.com
+25/07/2022 21:49:47 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:49:47 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:49:48 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:49:48 - ambiente = producao
+25/07/2022 21:49:48 - email = contato.lovesofa@gmail.com
+25/07/2022 21:49:48 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:49:48 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:49:48 - ambiente = producao
+25/07/2022 21:49:48 - email = contato.lovesofa@gmail.com
+25/07/2022 21:49:48 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:49:48 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:49:50 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:50:17 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:50:17 - ambiente = producao
+25/07/2022 21:50:17 - email = contato.lovesofa@gmail.com
+25/07/2022 21:50:17 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:50:17 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:50:18 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:50:18 - ambiente = producao
+25/07/2022 21:50:18 - email = contato.lovesofa@gmail.com
+25/07/2022 21:50:18 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:50:18 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:50:18 - ambiente = producao
+25/07/2022 21:50:18 - email = contato.lovesofa@gmail.com
+25/07/2022 21:50:18 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:50:18 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:50:20 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:50:33 - Alteração de status registrado, id = 21 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+25/07/2022 21:50:34 - Alteração de status registrado, id = 22 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Paga
+25/07/2022 21:50:34 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:51:07 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:51:07 - ambiente = producao
+25/07/2022 21:51:07 - email = contato.lovesofa@gmail.com
+25/07/2022 21:51:07 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:51:07 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:51:08 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:51:08 - ambiente = producao
+25/07/2022 21:51:08 - email = contato.lovesofa@gmail.com
+25/07/2022 21:51:08 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:51:08 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:51:08 - ambiente = producao
+25/07/2022 21:51:08 - email = contato.lovesofa@gmail.com
+25/07/2022 21:51:08 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:51:08 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:51:10 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:54:54 - Alteração de status registrado, id = 23 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+25/07/2022 21:56:17 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:17 - ambiente = producao
+25/07/2022 21:56:17 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:17 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:17 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:56:18 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:18 - ambiente = producao
+25/07/2022 21:56:18 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:18 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:18 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:18 - ambiente = producao
+25/07/2022 21:56:18 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:18 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:18 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:56:20 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:56:48 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:48 - ambiente = producao
+25/07/2022 21:56:48 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:48 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:48 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:56:49 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:49 - ambiente = producao
+25/07/2022 21:56:49 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:49 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:49 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+25/07/2022 21:56:49 - ambiente = producao
+25/07/2022 21:56:49 - email = contato.lovesofa@gmail.com
+25/07/2022 21:56:49 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+25/07/2022 21:56:49 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:56:51 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+25/07/2022 21:57:01 - Alteração de status registrado, id = 23 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+25/07/2022 21:57:12 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 20:51:35 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+26/07/2022 20:51:35 - ambiente = producao
+26/07/2022 20:51:35 - email = contato.lovesofa@gmail.com
+26/07/2022 20:51:35 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 20:51:35 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 20:51:37 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+26/07/2022 20:51:37 - ambiente = producao
+26/07/2022 20:51:37 - email = contato.lovesofa@gmail.com
+26/07/2022 20:51:37 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 20:51:37 - Ambiente = ..\..\..\pagseguro\ambiente_pagseguro.ini
+26/07/2022 20:51:37 - ambiente = producao
+26/07/2022 20:51:37 - email = contato.lovesofa@gmail.com
+26/07/2022 20:51:37 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 20:51:37 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 20:51:38 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 20:55:18 - Alteração de status registrado, id = 24 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+26/07/2022 20:55:18 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:12:14 - Alteração de status registrado, id = 25 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+26/07/2022 21:12:14 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:36:36 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:38:15 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:38:15 - ambiente = producao
+26/07/2022 21:38:15 - email = contato.lovesofa@gmail.com
+26/07/2022 21:38:15 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 21:38:15 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:38:16 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:38:16 - ambiente = producao
+26/07/2022 21:38:16 - email = contato.lovesofa@gmail.com
+26/07/2022 21:38:16 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 21:38:30 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:38:30 - ambiente = producao
+26/07/2022 21:38:30 - email = contato.lovesofa@gmail.com
+26/07/2022 21:38:30 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 21:38:30 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:38:31 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:38:31 - ambiente = producao
+26/07/2022 21:38:31 - email = contato.lovesofa@gmail.com
+26/07/2022 21:38:31 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 21:39:58 - Alteração de status registrado, id = 25 id_usuario = 25 status antigo = Aguardando pagamento (sem intenção de pagamento) novo status = Disponível
+26/07/2022 21:39:58 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:40:42 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:40:42 - ambiente = producao
+26/07/2022 21:40:42 - email = contato.lovesofa@gmail.com
+26/07/2022 21:40:42 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575
+26/07/2022 21:40:42 - C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente.ini
+26/07/2022 21:40:44 - Ambiente = C:\Gabriel\Desenvolvimento\GosComponents\API\Jobs\AnalisePagamento\exe\ambiente_pagseguro.ini
+26/07/2022 21:40:44 - ambiente = producao
+26/07/2022 21:40:44 - email = contato.lovesofa@gmail.com
+26/07/2022 21:40:44 - token = 0fb66db7-f46f-4e35-8da0-cf31f0f035a20a8043d34cee905c640349f3200fc6223e81-2de0-4db4-831d-5e44ac8ab575

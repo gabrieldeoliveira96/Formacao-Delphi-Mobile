@@ -1,0 +1,282 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 425
+  ClientWidth = 1407
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Rectangle1: TRectangle
+    Fill.Color = x32E99F25
+    Position.X = 672.000000000000000000
+    Position.Y = 189.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 149.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    object Rectangle2: TRectangle
+      Fill.Color = x96E99F25
+      Locked = True
+      HitTest = False
+      Position.Y = 1.000000000000000000
+      Size.Width = 201.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+    end
+    object Label1: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 4
+      OnMouseEnter = LabelEnter
+    end
+    object Label2: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 68.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 3
+      OnMouseEnter = LabelEnter
+    end
+    object Label3: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 51.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 2
+      OnMouseEnter = LabelEnter
+    end
+    object Label4: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 34.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 1
+      OnMouseEnter = LabelEnter
+    end
+    object Label5: TLabel
+      Align = Top
+      HitTest = True
+      Margins.Left = 8.000000000000000000
+      Margins.Right = 8.000000000000000000
+      Position.X = 8.000000000000000000
+      Position.Y = 17.000000000000000000
+      Size.Width = 185.000000000000000000
+      Size.Height = 17.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label1'
+      TabOrder = 0
+      OnMouseEnter = LabelEnter
+    end
+  end
+  object ComboBox1: TComboBox
+    Position.X = 1000.000000000000000000
+    Position.Y = 80.000000000000000000
+    Size.Width = 289.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    object ListBoxItem1: TListBoxItem
+      TabOrder = 0
+      Text = 'ListBoxItem1'
+    end
+    object ListBoxItem2: TListBoxItem
+      TabOrder = 1
+      Text = 'ListBoxItem2'
+    end
+    object ListBoxItem3: TListBoxItem
+      TabOrder = 2
+      Text = 'ListBoxItem3'
+    end
+  end
+  object Rectangle3: TRectangle
+    Position.X = 672.000000000000000000
+    Position.Y = 159.000000000000000000
+    Size.Width = 201.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    OnClick = Rectangle3Click
+    object SpeedButton1: TSpeedButton
+      Align = Right
+      HitTest = False
+      Locked = True
+      Position.X = 181.000000000000000000
+      Size.Width = 20.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      StyleLookup = 'dropdowneditbutton'
+      Text = 'SpeedButton1'
+    end
+    object Label6: TLabel
+      Align = Client
+      Locked = True
+      Margins.Left = 8.000000000000000000
+      Size.Width = 173.000000000000000000
+      Size.Height = 22.000000000000000000
+      Size.PlatformDefault = False
+      Text = 'Label6'
+      TabOrder = 0
+    end
+  end
+  object Button1: TButton
+    Position.X = 1232.000000000000000000
+    Position.Y = 234.000000000000000000
+    TabOrder = 4
+    Text = 'Button1'
+  end
+  object Button2: TButton
+    Position.X = 408.000000000000000000
+    Position.Y = 272.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 3
+    Text = 'Obter o Texto'
+    OnClick = Button2Click
+  end
+  object GosCombobox1: TGosCombobox
+    Fill.Color = claWhite
+    Position.X = 128.000000000000000000
+    Position.Y = 103.000000000000000000
+    Size.Width = 233.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = claGreen
+    XRadius = 3.000000000000000000
+    YRadius = 3.000000000000000000
+    ColorSelect = x96E99F25
+    Items.Strings = (
+      '1'
+      '2'
+      '3'
+      '4')
+    ItemFontColor = claBlue
+    OnItemClick = GosCombobox1ItemClick
+    OnItemTap = GosCombobox1ItemTap
+    List.Fill.Color = claWhite
+    List.Position.Y = 22.000000000000000000
+    List.Size.Width = 100.000000000000000000
+    List.Size.Height = 22.000000000000000000
+    List.Size.PlatformDefault = False
+    List.Stroke.Color = claSilver
+    List.Stroke.Thickness = 2.000000000000000000
+    List.Visible = False
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Visible = False
+    end
+  end
+  object Button3: TButton
+    Position.X = 408.000000000000000000
+    Position.Y = 302.000000000000000000
+    Size.Width = 121.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    Text = 'Obter a posi'#231#227'o'
+    OnClick = Button3Click
+  end
+  object GosCombobox2: TGosCombobox
+    Fill.Color = claRed
+    Position.X = 960.000000000000000000
+    Position.Y = 303.000000000000000000
+    Size.Width = 313.000000000000000000
+    Size.Height = 22.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Kind = None
+    ColorSelect = x96E99F25
+    Items.Strings = (
+      '1'
+      '2'
+      '3'
+      '4')
+    ItemFontColor = claBlue
+    OnItemClick = GosCombobox1ItemClick
+    OnItemTap = GosCombobox1ItemTap
+    Text = 'GosCombobox'
+    List.Fill.Color = x32E99F25
+    List.Position.Y = 22.000000000000000000
+    List.Size.Width = 100.000000000000000000
+    List.Size.Height = 22.000000000000000000
+    List.Size.PlatformDefault = False
+    List.Visible = False
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 1
+      Visible = False
+    end
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 2
+      Visible = False
+    end
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 3
+      Visible = False
+    end
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 4
+      Visible = False
+    end
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Visible = False
+    end
+  end
+  object Edit1: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 6
+    Position.X = 560.000000000000000000
+    Position.Y = 48.000000000000000000
+  end
+  object Edit2: TEdit
+    Touch.InteractiveGestures = [LongTap, DoubleTap]
+    TabOrder = 5
+    Position.X = 560.000000000000000000
+    Position.Y = 88.000000000000000000
+  end
+  object Button4: TButton
+    Position.X = 160.000000000000000000
+    Position.Y = 184.000000000000000000
+    TabOrder = 8
+    Text = 'Button4'
+    OnClick = Button4Click
+  end
+  object Lang1: TLang
+    Left = 480
+    Top = 184
+  end
+end

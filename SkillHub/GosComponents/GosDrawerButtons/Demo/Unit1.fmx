@@ -1,0 +1,46 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 640
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Position.X = 56.000000000000000000
+    Position.Y = 72.000000000000000000
+    TabOrder = 0
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object GosDrawerButtons1: TGosDrawerButtons
+    Tag = 0
+    TitleMenuText = 'Escolha uma op'#231#227'o'
+    TitleFontSize = 15
+    TitleFontColor = xFF8B8B8B
+    CancelMenuText = 'Cancelar'
+    CancelFontSize = 17
+    CancelFontColor = xFF087AF7
+    BackgroundOpacity = 0.500000000000000000
+    MenuColor = claWhite
+    TagString = ''
+    Items = <
+      item
+        codItem = 'GosDrawerButtons1Items0Click'
+        itemText = 'whats'
+        OnClick = GosDrawerButtons1Items0Click
+        fontTextColor = xFF087AF7
+        fontSize = 17
+      end
+      item
+        itemText = 'telegram'
+        OnClick = GosDrawerButtons1Items1Click
+        fontTextColor = xFF087AF7
+        fontSize = 17
+      end>
+    Left = 120
+    Top = 144
+  end
+end

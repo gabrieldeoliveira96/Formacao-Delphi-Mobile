@@ -1,0 +1,17 @@
+[BANCO]
+SERVER=ec2-54-160-223-58.compute-1.amazonaws.com
+DATABASE=goscomponentes
+PORTA=3306
+USER_NAME=gos
+PASSWORD=oliveira.s3084
+
+[AMBIENTE]
+#Sandbox
+AMBIENTE=Sandbox
+EmailVendedor=contato.lovesofa@gmail.com
+Token=2768740365B14297B6AECC3EEC9ED409
+
+#prod
+#AMBIENTE=Prod
+#EmailVendedor=contato.lovesofa@gmail.com
+#Token=

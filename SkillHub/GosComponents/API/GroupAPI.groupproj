@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{ACB48EFD-C7E0-4A61-93EC-6EBD5A5E573F}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="servico\GosComponents_Servico.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="GosComponents.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="GosComponents_Servico">
+        <MSBuild Projects="servico\GosComponents_Servico.dproj"/>
+    </Target>
+    <Target Name="GosComponents_Servico:Clean">
+        <MSBuild Projects="servico\GosComponents_Servico.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GosComponents_Servico:Make">
+        <MSBuild Projects="servico\GosComponents_Servico.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="GosComponents">
+        <MSBuild Projects="GosComponents.dproj"/>
+    </Target>
+    <Target Name="GosComponents:Clean">
+        <MSBuild Projects="GosComponents.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="GosComponents:Make">
+        <MSBuild Projects="GosComponents.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="GosComponents_Servico;GosComponents"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="GosComponents_Servico:Clean;GosComponents:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="GosComponents_Servico:Make;GosComponents:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

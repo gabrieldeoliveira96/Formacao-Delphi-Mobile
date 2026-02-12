@@ -1,0 +1,41 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 275
+  ClientWidth = 555
+  Fill.Kind = Solid
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object GosCombobox1: TGosCombobox
+    Fill.Color = claWhite
+    Position.X = 157.000000000000000000
+    Position.Y = 56.000000000000000000
+    Size.Width = 256.000000000000000000
+    Size.Height = 29.000000000000000000
+    Size.PlatformDefault = False
+    Stroke.Color = xFFC4C4C4
+    XRadius = 3.000000000000000000
+    YRadius = 3.000000000000000000
+    ColorSelect = xFFFFEFE5
+    Items.Strings = (
+      '1 - Simples Nacional'
+      '2 - Simples Nacional - excesso de sublimite da receita bruta'
+      '3 - Regime Normal')
+    ItemFontColor = xFF060606
+    List.Fill.Color = x32FFFFFF
+    List.Position.Y = 29.000000000000000000
+    List.Size.Width = 100.000000000000000000
+    List.Size.Height = 22.000000000000000000
+    List.Size.PlatformDefault = False
+    List.Stroke.Color = xFF989898
+    List.Visible = False
+    object TEdit
+      Touch.InteractiveGestures = [LongTap, DoubleTap]
+      TabOrder = 0
+      Visible = False
+    end
+  end
+end

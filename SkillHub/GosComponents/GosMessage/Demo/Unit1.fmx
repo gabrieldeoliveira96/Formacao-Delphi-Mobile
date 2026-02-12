@@ -1,0 +1,210 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 455
+  ClientWidth = 461
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Align = Top
+    Size.Width = 461.000000000000000000
+    Size.Height = 65.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object GosMessage1: TGosMessage
+    Align = Client
+    Size.Width = 461.000000000000000000
+    Size.Height = 390.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    BackgroundOpacity = 0.699999988079071000
+    ColorGreen = xFF35BD27
+    ColorRed = xFFE64D4D
+    ColorGray = xFFAAAAAA
+    ColorBlue = xFF3085D6
+    ColorOrange = xFFF3A867
+    object TRectangle
+      Align = Contents
+      Fill.Color = claBlack
+      Opacity = 0.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      Visible = False
+    end
+    object TLayout
+      Align = Contents
+      Opacity = 0.000000000000000000
+      Visible = False
+      TabOrder = 1
+      object TRectangle
+        Align = Center
+        Fill.Color = claWhite
+        Size.Width = 280.000000000000000000
+        Size.Height = 400.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Kind = None
+        XRadius = 6.000000000000000000
+        YRadius = 6.000000000000000000
+        object TArc
+          Align = MostTop
+          Margins.Left = 85.000000000000000000
+          Margins.Top = 40.000000000000000000
+          Margins.Right = 85.000000000000000000
+          Position.X = 85.000000000000000000
+          Position.Y = 40.000000000000000000
+          Size.Width = 110.000000000000000000
+          Size.Height = 110.000000000000000000
+          Size.PlatformDefault = False
+          Stroke.Color = xFF35BD27
+          Stroke.Thickness = 3.000000000000000000
+          StartAngle = -90.000000000000000000
+          object TRectangle
+            Align = Center
+            Size.Width = 50.000000000000000000
+            Size.Height = 5.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            XRadius = 2.500000000000000000
+            YRadius = 2.500000000000000000
+          end
+          object TRectangle
+            Align = Center
+            Size.Width = 50.000000000000000000
+            Size.Height = 5.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            XRadius = 2.500000000000000000
+            YRadius = 2.500000000000000000
+          end
+          object TLabel
+            Align = Client
+            StyledSettings = [Family, Style]
+            Size.Width = 110.000000000000000000
+            Size.Height = 110.000000000000000000
+            Size.PlatformDefault = False
+            TextSettings.Font.Size = 30.000000000000000000
+            TextSettings.FontColor = xFFAAAAAA
+            TextSettings.HorzAlign = Center
+            TextSettings.Trimming = None
+            TabOrder = 2
+          end
+          object TFloatAnimation
+            Delay = 0.100000001490116100
+            Duration = 0.400000005960464500
+            Interpolation = Circular
+            PropertyName = 'EndAngle'
+            StartValue = 0.000000000000000000
+            StopValue = 360.000000000000000000
+          end
+        end
+        object TLabel
+          Align = Client
+          StyledSettings = [Family, Style]
+          Margins.Left = 20.000000000000000000
+          Margins.Top = 20.000000000000000000
+          Margins.Right = 20.000000000000000000
+          Size.Width = 240.000000000000000000
+          Size.Height = 100.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 15.000000000000000000
+          TextSettings.FontColor = xFF848484
+          TextSettings.HorzAlign = Center
+          TextSettings.VertAlign = Leading
+          TextSettings.Trimming = None
+          Text = 'Sua mensagem foi enviada com sucesso'
+          TabOrder = 1
+        end
+        object TLabel
+          Align = Top
+          AutoSize = True
+          StyledSettings = [Family, Style]
+          Margins.Left = 20.000000000000000000
+          Margins.Top = 30.000000000000000000
+          Margins.Right = 20.000000000000000000
+          Position.X = 20.000000000000000000
+          Position.Y = 180.000000000000000000
+          Size.Width = 240.000000000000000000
+          Size.Height = 25.000000000000000000
+          Size.PlatformDefault = False
+          TextSettings.Font.Size = 19.000000000000000000
+          TextSettings.FontColor = xFF2C2C2C
+          TextSettings.HorzAlign = Center
+          TextSettings.VertAlign = Leading
+          TextSettings.Trimming = None
+          TabOrder = 2
+        end
+        object TLayout
+          Align = Bottom
+          Margins.Left = 10.000000000000000000
+          Margins.Right = 10.000000000000000000
+          Margins.Bottom = 25.000000000000000000
+          Position.X = 10.000000000000000000
+          Position.Y = 325.000000000000000000
+          Size.Width = 260.000000000000000000
+          Size.Height = 50.000000000000000000
+          Size.PlatformDefault = False
+          TabOrder = 3
+          object TRectangle
+            Fill.Color = xFF3085D6
+            Size.Width = 190.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            Visible = False
+            XRadius = 4.000000000000000000
+            YRadius = 4.000000000000000000
+            object TLabel
+              Align = Contents
+              StyledSettings = [Family, Style]
+              Size.Width = 190.000000000000000000
+              Size.Height = 50.000000000000000000
+              Size.PlatformDefault = False
+              TextSettings.Font.Size = 17.000000000000000000
+              TextSettings.FontColor = claWhite
+              TextSettings.HorzAlign = Center
+              TextSettings.Trimming = None
+              Text = 'Enviar'
+              TabOrder = 0
+            end
+          end
+          object TRectangle
+            Fill.Color = xFF3085D6
+            Size.Width = 190.000000000000000000
+            Size.Height = 50.000000000000000000
+            Size.PlatformDefault = False
+            Stroke.Kind = None
+            Visible = False
+            XRadius = 4.000000000000000000
+            YRadius = 4.000000000000000000
+            object TLabel
+              Align = Contents
+              StyledSettings = [Family, Style]
+              Size.Width = 190.000000000000000000
+              Size.Height = 50.000000000000000000
+              Size.PlatformDefault = False
+              TextSettings.Font.Size = 17.000000000000000000
+              TextSettings.FontColor = claWhite
+              TextSettings.HorzAlign = Center
+              TextSettings.Trimming = None
+              Text = 'Cancelar'
+              TabOrder = 0
+            end
+          end
+        end
+      end
+      object TFloatAnimation
+        Duration = 0.200000002980232200
+        StartValue = 0.000000000000000000
+        StopValue = 0.000000000000000000
+      end
+    end
+  end
+end

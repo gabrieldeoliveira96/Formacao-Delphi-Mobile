@@ -1,0 +1,25 @@
+object ListViewDefaultFooter: TListViewDefaultFooter
+  Size.Width = 350.000000000000000000
+  Size.Height = 51.000000000000000000
+  Size.PlatformDefault = False
+  object Layout1: TLayout
+    Align = Client
+    Size.Width = 350.000000000000000000
+    Size.Height = 51.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+    object AniView: TAniIndicator
+      Position.X = 13.000000000000000000
+      Position.Y = 14.000000000000000000
+      Size.Width = 20.000000000000000000
+      Size.Height = 20.000000000000000000
+      Size.PlatformDefault = False
+    end
+    object tvText: TLabel
+      Position.X = 112.000000000000000000
+      Position.Y = 16.000000000000000000
+      Text = 'tvText'
+      TabOrder = 1
+    end
+  end
+end

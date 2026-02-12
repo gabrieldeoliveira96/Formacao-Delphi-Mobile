@@ -1,0 +1,168 @@
+{
+	"info": {
+		"_postman_id": "3c0cf9b7-f62e-4b2e-99ec-65c7b1b6af50",
+		"name": "GosComponents_AWS",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "6874455"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"login\":\"delphi\",\r\n    \"senha\":\"123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL_AWS}}/login",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ping",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL_AWS}}/ping",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkwOTk5ODksImlkIjoiMSJ9.E4BIPEzzOGcWf4G5dKXG_BxgBXvgSbklctsG5Nb1ysg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Gabriel Oliveira Live 1\",\r\n    \"cpf\": \"10570508657\",\r\n    \"dtnasc\": \"2030-04-03\",\r\n    \"login\": \"youtube 2\",\r\n    \"senha\": \"1234\",\r\n    \"ddd\":\"17\",\r\n    \"telefone\":\"992279134\",\r\n    \"email\":\"gabriel.o.s@hotmail.com\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{URL_AWS}}/usuario",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"usuario"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "obter usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTI4MTkyNzMsImlkIjoiMSJ9.Z9Iqb3Wmylu6sYWeCv1FgXmex0l99SjoqephO9xc65s",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL_AWS}}/usuario/2",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"usuario",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Obter Lista de Componentes",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NTkwNTYxNDcsImlkIjoiMSJ9.6P94TJ7z3kjbfYtc3hG3YlppFfWe7_yws18M4Fcb7a4",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "{{URL_AWS}}/componentes",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"componentes"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "pagamento",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{URL_AWS}}/pagamento/28",
+					"host": [
+						"{{URL_AWS}}"
+					],
+					"path": [
+						"pagamento",
+						"28"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

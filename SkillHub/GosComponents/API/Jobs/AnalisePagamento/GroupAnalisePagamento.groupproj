@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{6E25A1C5-47B1-4251-A41F-2760E954B405}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="servico\AnalisePagamentoServico.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="win\AnalisePagamento.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="AnalisePagamentoServico">
+        <MSBuild Projects="servico\AnalisePagamentoServico.dproj"/>
+    </Target>
+    <Target Name="AnalisePagamentoServico:Clean">
+        <MSBuild Projects="servico\AnalisePagamentoServico.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AnalisePagamentoServico:Make">
+        <MSBuild Projects="servico\AnalisePagamentoServico.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="AnalisePagamento">
+        <MSBuild Projects="win\AnalisePagamento.dproj"/>
+    </Target>
+    <Target Name="AnalisePagamento:Clean">
+        <MSBuild Projects="win\AnalisePagamento.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="AnalisePagamento:Make">
+        <MSBuild Projects="win\AnalisePagamento.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="AnalisePagamentoServico;AnalisePagamento"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="AnalisePagamentoServico:Clean;AnalisePagamento:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="AnalisePagamentoServico:Make;AnalisePagamento:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

@@ -1,0 +1,6 @@
+
+ip
+ec2-54-160-223-58.compute-1.amazonaws.com
+
+senha
+L%hQwht%Km-Q55FQReEmfQQOyiW64rvY

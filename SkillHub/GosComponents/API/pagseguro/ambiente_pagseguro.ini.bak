@@ -1,0 +1,10 @@
+[AMBIENTE]
+#Sandbox
+#AMBIENTE=Sandbox
+#EmailVendedor=contato.lovesofa@gmail.com
+#Token=2768740365B14297B6AECC3EEC9ED409
+
+#prod
+AMBIENTE=Prod
+EmailVendedor=contato.lovesofa@gmail.com
+Token=2768740365B14297B6AECC3EEC9ED409

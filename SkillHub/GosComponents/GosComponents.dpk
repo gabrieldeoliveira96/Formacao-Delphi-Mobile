@@ -1,0 +1,54 @@
+package GosComponents;
+
+{$R *.res}
+{$IFDEF IMPLICITBUILDING This IFDEF should not be used by users}
+{$ALIGN 8}
+{$ASSERTIONS ON}
+{$BOOLEVAL OFF}
+{$DEBUGINFO OFF}
+{$EXTENDEDSYNTAX ON}
+{$IMPORTEDDATA ON}
+{$IOCHECKS ON}
+{$LOCALSYMBOLS OFF}
+{$LONGSTRINGS ON}
+{$OPENSTRINGS ON}
+{$OPTIMIZATION ON}
+{$OVERFLOWCHECKS OFF}
+{$RANGECHECKS OFF}
+{$REFERENCEINFO OFF}
+{$SAFEDIVIDE OFF}
+{$STACKFRAMES OFF}
+{$TYPEDADDRESS OFF}
+{$VARSTRINGCHECKS ON}
+{$WRITEABLECONST OFF}
+{$MINENUMSIZE 1}
+{$IMAGEBASE $400000}
+{$DEFINE RELEASE}
+{$ENDIF IMPLICITBUILDING}
+{$IMPLICITBUILD ON}
+
+requires
+  rtl,
+  fmx;
+
+contains
+  uGosComponents in 'Source\uGosComponents.pas',
+  uGosObjects in 'GosObjects\scr\uGosObjects.pas',
+  uGosAguardeBallon in 'GosAguardeBallon\src\uGosAguardeBallon.pas',
+  uGosAguardeText in 'GosAguardeText\src\uGosAguardeText.pas',
+  uGosDrawerButtons in 'GosDrawerButtons\src\uGosDrawerButtons.pas',
+  uGosDrawerComponents in 'GosDrawerComponents\src\uGosDrawerComponents.pas',
+  uGosEditTitle in 'GosEditTitle\src\uGosEditTitle.pas',
+  uGosEdit in 'GosObjects\scr\uGosEdit.pas',
+  uGosMessage in 'GosMessage\src\uGosMessage.pas',
+  uQrCode in 'GosQrCode\src\uQrCode.pas',
+  uGosQrCode in 'GosQrCode\src\uGosQrCode.pas',
+  uGosToast_v1 in 'GosToast_v1\src\uGosToast_v1.pas',
+  uGosToast_v2 in 'GosToast_v2\src\uGosToast_v2.pas',
+  NetWork.State in 'GosVerifyInternet\src\NetWork.State.pas',
+  uGosLoadButton in 'GosLoadButton\src\uGosLoadButton.pas',
+  uGosListView.Footer in 'GosObjects\scr\uGosListView.Footer.pas' {ListViewDefaultFooter: TFrame},
+  uGosListView.Header in 'GosObjects\scr\uGosListView.Header.pas' {ListViewDefaultHeader: TFrame};
+
+end.
+

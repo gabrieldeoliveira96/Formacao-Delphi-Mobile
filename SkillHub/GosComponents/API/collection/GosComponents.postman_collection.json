@@ -1,0 +1,145 @@
+{
+	"info": {
+		"_postman_id": "82e0af26-82e8-44a8-a373-a77c0fcdf334",
+		"name": "GosComponents",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Login",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"login\":\"delphi\",\r\n    \"senha\":\"123\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://ec2-54-160-223-58.compute-1.amazonaws.com:9000/login",
+					"protocol": "http",
+					"host": [
+						"ec2-54-160-223-58",
+						"compute-1",
+						"amazonaws",
+						"com"
+					],
+					"port": "9000",
+					"path": [
+						"login"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "ping",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-54-160-223-58.compute-1.amazonaws.com:9000/ping",
+					"protocol": "http",
+					"host": [
+						"ec2-54-160-223-58",
+						"compute-1",
+						"amazonaws",
+						"com"
+					],
+					"port": "9000",
+					"path": [
+						"ping"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "insert usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDkwOTk5ODksImlkIjoiMSJ9.E4BIPEzzOGcWf4G5dKXG_BxgBXvgSbklctsG5Nb1ysg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n    \"nome\": \"Delphi 2\",\r\n    \"cpf\": \"456789\",\r\n    \"dtnasc\": \"2030-04-03\",\r\n    \"login\": \"youtube 2\",\r\n    \"senha\": \"instagram 2\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "http://ec2-54-160-223-58.compute-1.amazonaws.com:9000/usuario",
+					"protocol": "http",
+					"host": [
+						"ec2-54-160-223-58",
+						"compute-1",
+						"amazonaws",
+						"com"
+					],
+					"port": "9000",
+					"path": [
+						"usuario"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "obter usuario",
+			"request": {
+				"auth": {
+					"type": "bearer",
+					"bearer": [
+						{
+							"key": "token",
+							"value": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE2NDk1MjU1OTksImlkIjoiMSJ9.xv0_J92clTvMh8IFvxw6PmDcvzzMeHRNLrwbYUucxTg",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "http://ec2-54-160-223-58.compute-1.amazonaws.com:9000/usuario/2",
+					"protocol": "http",
+					"host": [
+						"ec2-54-160-223-58",
+						"compute-1",
+						"amazonaws",
+						"com"
+					],
+					"port": "9000",
+					"path": [
+						"usuario",
+						"2"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

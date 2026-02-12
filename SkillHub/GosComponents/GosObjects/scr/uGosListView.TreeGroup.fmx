@@ -1,0 +1,12 @@
+object ListViewTreeGroup: TListViewTreeGroup
+  Size.Width = 322.000000000000000000
+  Size.Height = 55.000000000000000000
+  Size.PlatformDefault = False
+  object TextView: TLayout
+    Align = Top
+    Size.Width = 322.000000000000000000
+    Size.Height = 50.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 0
+  end
+end

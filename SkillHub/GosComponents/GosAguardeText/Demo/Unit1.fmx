@@ -1,0 +1,80 @@
+object Form1: TForm1
+  Left = 0
+  Top = 0
+  Caption = 'Form1'
+  ClientHeight = 480
+  ClientWidth = 333
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Button1: TButton
+    Align = Top
+    Size.Width = 333.000000000000000000
+    Size.Height = 57.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 1
+    Text = 'Button1'
+    OnClick = Button1Click
+  end
+  object GosAguardeText1: TGosAguardeText
+    Align = Client
+    Size.Width = 333.000000000000000000
+    Size.Height = 423.000000000000000000
+    Size.PlatformDefault = False
+    TabOrder = 2
+    OpacityBackGround = 0.699999988079071000
+    object TRectangle
+      Align = Contents
+      Fill.Color = claBlack
+      Opacity = 0.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Stroke.Kind = None
+      Visible = False
+    end
+    object TLayout
+      Align = Contents
+      Opacity = 0.000000000000000000
+      Size.Width = 50.000000000000000000
+      Size.Height = 50.000000000000000000
+      Size.PlatformDefault = False
+      Visible = False
+      TabOrder = 1
+      object TArc
+        Align = Center
+        Margins.Bottom = 55.000000000000000000
+        Size.Width = 25.000000000000000000
+        Size.Height = 25.000000000000000000
+        Size.PlatformDefault = False
+        Stroke.Color = xFFFEFFFF
+        Stroke.Thickness = 2.000000000000000000
+        EndAngle = 280.000000000000000000
+        object TFloatAnimation
+          AnimationType = InOut
+          Duration = 0.800000011920929000
+          Loop = True
+          PropertyName = 'RotationAngle'
+          StartValue = 0.000000000000000000
+          StopValue = 360.000000000000000000
+        end
+      end
+      object TLabel
+        Align = Center
+        StyledSettings = [Family, Style]
+        Margins.Top = 60.000000000000000000
+        Size.Width = 0.000000000000000000
+        Size.Height = 70.000000000000000000
+        Size.PlatformDefault = False
+        TextSettings.Font.Size = 13.000000000000000000
+        TextSettings.FontColor = xFFFEFFFF
+        TextSettings.HorzAlign = Center
+        TextSettings.VertAlign = Leading
+        TextSettings.Trimming = None
+        TabOrder = 1
+        TabStop = False
+      end
+    end
+  end
+end

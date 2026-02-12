@@ -1,0 +1,48 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{134E9490-3782-406C-AA1F-671CB7DD2C14}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="win\EnvioEmail.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="servico\EnvioEmailServico.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="EnvioEmail">
+        <MSBuild Projects="win\EnvioEmail.dproj"/>
+    </Target>
+    <Target Name="EnvioEmail:Clean">
+        <MSBuild Projects="win\EnvioEmail.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EnvioEmail:Make">
+        <MSBuild Projects="win\EnvioEmail.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="EnvioEmailServico">
+        <MSBuild Projects="servico\EnvioEmailServico.dproj"/>
+    </Target>
+    <Target Name="EnvioEmailServico:Clean">
+        <MSBuild Projects="servico\EnvioEmailServico.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="EnvioEmailServico:Make">
+        <MSBuild Projects="servico\EnvioEmailServico.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="EnvioEmail;EnvioEmailServico"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="EnvioEmail:Clean;EnvioEmailServico:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="EnvioEmail:Make;EnvioEmailServico:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>
